@@ -45,7 +45,7 @@ I am a Computer Science & Data Science student.
 * Built a computer vision system to control screen brightness using hand gestures.
 * Implemented real-time hand tracking using OpenCV and webcam input.
 
- ###Amazon Clone (HTML & CSS)
+### Amazon Clone (HTML & CSS)
 
 * Developed a responsive Amazon homepage clone using HTML and CSS.
 * Designed product sections, navigation bar, search bar, and footer similar to the Amazon website.
