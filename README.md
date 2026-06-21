@@ -7,7 +7,7 @@ I am a Computer Science & Data Science student.
 - Technical Skills: Java, HTML, CSS, and Python
 - Interested in Software Engineering
 - Strengthening my Data Structures and Algorithms skills
-- Continuously improving my coding and problem-solving abilities
+- Continuously improving my coding and problem-solving abilities 
 
 # 💻 Technical Skills
 
